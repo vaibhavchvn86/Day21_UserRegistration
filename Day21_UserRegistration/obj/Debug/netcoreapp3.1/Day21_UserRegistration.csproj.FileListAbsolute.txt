@@ -1,0 +1,14 @@
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\bin\Debug\netcoreapp3.1\Day21_UserRegistration.exe
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\bin\Debug\netcoreapp3.1\Day21_UserRegistration.deps.json
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\bin\Debug\netcoreapp3.1\Day21_UserRegistration.runtimeconfig.json
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\bin\Debug\netcoreapp3.1\Day21_UserRegistration.runtimeconfig.dev.json
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\bin\Debug\netcoreapp3.1\Day21_UserRegistration.dll
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\bin\Debug\netcoreapp3.1\Day21_UserRegistration.pdb
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\obj\Debug\netcoreapp3.1\Day21_UserRegistration.csproj.AssemblyReference.cache
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\obj\Debug\netcoreapp3.1\Day21_UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\obj\Debug\netcoreapp3.1\Day21_UserRegistration.AssemblyInfoInputs.cache
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\obj\Debug\netcoreapp3.1\Day21_UserRegistration.AssemblyInfo.cs
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\obj\Debug\netcoreapp3.1\Day21_UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\obj\Debug\netcoreapp3.1\Day21_UserRegistration.dll
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\obj\Debug\netcoreapp3.1\Day21_UserRegistration.pdb
+C:\Users\vaibh\source\repos\Day21_UserRegistration\Day21_UserRegistration\obj\Debug\netcoreapp3.1\Day21_UserRegistration.genruntimeconfig.cache
